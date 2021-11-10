@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cloudking",
+  "private_key_id": "d471f32cd3709399d14d1ed52b5420f3110eb3c6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2Gi4XRL3WKBOI\n70jkng/3mkRQ9E0a1FgOLJkQJ4l4hv6O5iJc10ennmV+xbHHbKRiWH2lCpdy+WUS\nSbVeF44zYSY3QxxYyfPXibUFR/1TSD2DByzl73mTwVMW0a7xDquNpdSHTIap2cFI\nLcIesv0kW38ubvUQjVP17W8c+728CACZd9Ho7vNPVEC7QnhHlZGWggGbwOVuejdv\nTSbz6w/fT2SjGySpjwiYLyohY3c3k9KLaFJbLUO/OM/y+4itFCEp2DU4iLN0kcGb\nH2NJuYXV8OjN4f91ilCNNYY5VFB334ow6BULFtBbBGvEizIq8VyRjPPR5ML7ki7b\nrUh7QV3HAgMBAAECggEAFR25DYKvnrc7+KuCoNwBTv1pAZgqnrtT0KT0RM7I3pyM\nxSZDgs+F5BZ2f3pOMKlU8ICBZVNyl2b7BOFeMiB6IVQZGdxi25rjdzFlN80Ov4sH\ncvuwhaM8zljjGSjMZ/CDDSRXHi9OCEETbBq+QVAREZe4ijpcmYRB4akcMtiwOi7j\nS+n5A4JNBdElU9K3uYYXPO18lXDZwB/IFYpyJ1t5shV37OoADopiEcNRjM5wGqDH\nvLi8a6xAET9PUj2ddT7jN/v6KWulHhFafgd8bUvHGKjkPtUpl5KafwgUHVQ0d7BO\nuIgqlemtSwoa/KNwDE8l3zvNKzQs2mgQ8Z9UMLcHIQKBgQDYbgaG33xkIN9dHGSq\nbh7YB5Q0GE0IkxPwOXQtliCgWWjUIElSqAX6G4sfx0RgrFJEsDRhxuQ3msjqUTy/\naFA78K6HZ3Ydgqea131Rw8x0uON3Un1CfcNcHIVFxfiL48fbx4JXbFCq+WYX75/o\nb2BznwK6zV6beZIiOCy3p52/oQKBgQDXZXVWgfvY5naI8BDnoNfVgCZcpklcYLq0\nyAuutQAlmJ/wynCAUKZkza1gvJZXTcyQ0hMkJ/6b8yQiSFOoG+imA9jxzKHrkZbc\nFdh058uJH5zzXotPyEGA9WTFu+zUGDwu/4qoNbbLf6dA5EhbeiPx8hieWKTxGfqu\ncfC20tLEZwKBgEnGl6r6G6j2G63ds+L0zsbNLpPjhL7bg/xrWVMAzfZbBATrTJNE\ne2UaZn5aqtBZbWHEvtZluf3KYZqePprwsAj+rj+x4O2GUCPUOP/aQqO3MrLGB7TW\nsfWAM13pciQdbU9Z3vB2F7lwcoDOSjAtZy+CkKekwg81jb7kbznbhUaBAoGBAM6O\n/Xd4L4xRdlrb3VpDZLfZrPAshy2PlXzIWmuwJ/Pl6XuAp2Jl9Su2Eg4yy/ntIb+/\ntZt2vzPOd1hpA9Cy8uhByEoZcy308Dceu/VgVE+rgVfh0rcv06FXssvs67B5jT2E\n0fN9j06XnE0enkUbXF0pTXKMj6CmyT+BBNZOVtEBAoGANZNkcR1Gw4Tj6jLV7YmN\nEmWQ6IiUXHavPAQsS0vCt8DwHW4arWxM1yxB2s5xLbzWnjWDVjB/t6YPSPMo2Z01\ntd/mX9HGQikgGdSWtv5iQ9nGj1eKEtoB0IqzGyzz/ij9MfrfEqWDKDPSXAA3sY16\nahmfW4gF3C810mMY/J9u12Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-un8lvx3lo8b9s6jc5jivc9n4yl@cloudking.iam.gserviceaccount.com",
+  "client_id": "118324275148139477217",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-un8lvx3lo8b9s6jc5jivc9n4yl%40cloudking.iam.gserviceaccount.com"
+}
